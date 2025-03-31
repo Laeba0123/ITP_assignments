@@ -1,0 +1,11 @@
+Enter three sides of a triangle:
+3 3 4
+It is an isosceles triangle
+
+Enter three sides of a triangle:
+3 4 5 
+It is a scalene triangle
+
+Enter three sides of a triangle:
+4 4 4 
+It is an equilateral triangle
