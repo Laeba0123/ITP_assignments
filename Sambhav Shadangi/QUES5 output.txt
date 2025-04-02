@@ -1,0 +1,7 @@
+Enter a number
+9
+The entered number is a perfect square
+
+Enter a number
+3
+The entered number is not a perfect square

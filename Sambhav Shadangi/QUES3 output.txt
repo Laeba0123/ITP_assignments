@@ -1,0 +1,3 @@
+Enter a number
+5678943
+The largest digit is:9

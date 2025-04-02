@@ -1,0 +1,6 @@
+Enter any number
+3
+The output is:
+123
+112233
+111222333

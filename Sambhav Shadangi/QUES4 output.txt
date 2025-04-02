@@ -1,0 +1,4 @@
+Enter a number
+678
+The entered number in binary form is:1010100110
+The entered number in octal number system is:1246
