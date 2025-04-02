@@ -1,0 +1,11 @@
+Enter a number
+25
+The entered number is a perfect square
+
+Enter a number
+101
+The entered number is not a perfect square
+
+Enter a number
+23
+The entered number is not a perfect square

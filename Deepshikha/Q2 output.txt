@@ -1,0 +1,15 @@
+Enter three sides of a triangle:
+5 6 7
+It is a Scalene Triangle
+
+Enter three sides of a triangle:
+6 6 6
+It is an Equilateral Triangle
+
+Enter three sides of a triangle:
+5 5 4
+It is an Isosceles Triangle
+
+Enter three sides of a triangle:
+2 3 6
+The entered sides cannot form a triangle

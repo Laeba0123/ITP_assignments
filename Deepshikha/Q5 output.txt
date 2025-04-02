@@ -1,0 +1,4 @@
+Enter a number
+15
+The entered number in octal number system is:17
+The entered number in binary form is:1111

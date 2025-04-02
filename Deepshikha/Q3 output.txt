@@ -1,0 +1,3 @@
+Enter a number
+56789
+The largest digit in the number is:9
