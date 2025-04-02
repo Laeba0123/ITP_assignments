@@ -1,0 +1,4 @@
+Assignment 1 includes some implementation of basic cpp programming,
+ conditional statements and loops to ensure better understanding
+for the learners of our "ITP" bootcamp we have also structured the questions 
+to enhance logical thinking and problem solving skills!!
