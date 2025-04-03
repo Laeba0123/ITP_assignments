@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i,j,k,n;
+    cout<<"Enter any number"<<endl;
+    cin>>n;
+    k=1;
+    for(i=1;i<=3;i++)
+    {
+        for(j=1;j<=n;j++)
+        {
+            if(j<n)
+            cout<<k<<"*";
+            else
+            cout<<k;
+            k++;
+        }
+        cout<<endl;
+    }
+    return 0;
+}
